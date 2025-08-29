@@ -19,4 +19,4 @@ It models a simple library management system that can be used to track books, me
 ```sql
    SOURCE schema.sql;
    SOURCE data.sql;
-
+Run queries from queries.sql to test the system.
